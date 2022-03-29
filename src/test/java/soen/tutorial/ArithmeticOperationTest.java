@@ -17,8 +17,8 @@ public class ArithmeticOperationTest {
 		assertEquals(expected, actual);
 
 	}
-    @Test
-   /* public void testSub()
+    /*@Test
+    public void testSub()
     {
 
         ArithmeticOperation operations = new ArithmeticOperation();
