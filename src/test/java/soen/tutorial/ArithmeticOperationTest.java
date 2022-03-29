@@ -15,7 +15,7 @@ public class ArithmeticOperationTest {
 		Integer actual = operations.addOrSub(2, 6);
 		Integer expected = 8;
 		//assertEquals(expected, actual);
-		assert.fail("test must fail");
+		Assert.fail("test must fail");
 	}
     /*@Test
     public void testSub()
